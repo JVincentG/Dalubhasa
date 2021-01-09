@@ -1,8 +1,0 @@
-C:\Users\Vincent\Documents\SharpDevelop Projects\dalubhasa02\dalubhasa02\bin\Debug\dalubhasa02.exe.config
-C:\Users\Vincent\Documents\SharpDevelop Projects\dalubhasa02\dalubhasa02\bin\Debug\dalubhasa02.exe
-C:\Users\Vincent\Documents\SharpDevelop Projects\dalubhasa02\dalubhasa02\bin\Debug\dalubhasa02.pdb
-C:\Users\Vincent\Documents\SharpDevelop Projects\dalubhasa02\dalubhasa02\obj\Debug\dalubhasa02.csprojResolveAssemblyReference.cache
-C:\Users\Vincent\Documents\SharpDevelop Projects\dalubhasa02\dalubhasa02\obj\Debug\dalubhasa02.MainForm.resources
-C:\Users\Vincent\Documents\SharpDevelop Projects\dalubhasa02\dalubhasa02\obj\Debug\dalubhasa02.csproj.GenerateResource.Cache
-C:\Users\Vincent\Documents\SharpDevelop Projects\dalubhasa02\dalubhasa02\obj\Debug\dalubhasa02.exe
-C:\Users\Vincent\Documents\SharpDevelop Projects\dalubhasa02\dalubhasa02\obj\Debug\dalubhasa02.pdb
